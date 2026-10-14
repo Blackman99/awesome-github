@@ -82,6 +82,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [Starboard](https://starboard.codevetter.com) - Discover relevant open-source repositories using project context, hybrid search, and inspectable repository evidence.
 + [GitDiagram](https://gitdiagram.com) - Replace "hub" with "diagram" in any GitHub URL to get an interactive architecture diagram of the repository.
 + [Manifest API Bot](https://github.com/apps/manifest-api-bot) - GitHub App that watches the third-party APIs your code calls and opens a pull request with the fix when one of them changes.
++ [actnode](https://github.com/Blackman99/actnode) - Find GitHub Actions workflow steps still on Node 20 actions and the release that moves each to Node 24; CLI and Action.
 
 ## Emoji
 
